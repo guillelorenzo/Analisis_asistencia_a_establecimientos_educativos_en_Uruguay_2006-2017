@@ -63,7 +63,7 @@ La variación se calcula como la diferencia en puntos porcentuales entre una eda
 ## Hallazgos principales
 
 ### Gráfico 1 — Asistencia promedio y variación por edad
-El pico de asistencia se alcanza a los   9 años  , a partir de donde desciende de forma ininterrumpida. Entre los 5 y 10 años la variación es mínima, lo que indica una etapa de asistencia estable y elevada. A partir de los   14 años   la caída supera los 25 puntos porcentuales por año, con su máximo a los 18 años (casi -25pp), edad esperada de finalización del liceo. Tras ese pico, la reducción continúa pero a un ritmo decreciente.
+El pico de asistencia se alcanza a los   9 años  , a partir de donde desciende de forma ininterrumpida. Entre los 5 y 10 años la variación es mínima, lo que indica una etapa de asistencia estable y elevada. A partir de los   14 años   la caída supera los 5 puntos porcentuales por año, con su máximo a los 18 años (casi -25pp), edad esperada de finalización del liceo. Tras ese pico, la reducción continúa pero a un ritmo decreciente.
 
 ### Gráfico 2 — Asistencia promedio por edad según zona
 Montevideo presenta consistentemente la mayor asistencia, con una excepción a los 5 años donde las localidades del interior la superan. Las cuatro zonas siguen un patrón similar: asistencia alta y estable hasta los 12–13 años, con una caída que se acentúa a partir de los 16. Las zonas rurales registran la menor asistencia en la mayoría de las edades, excepto después de los 18 años, donde las localidades del interior con menos de 5.000 habitantes pasan a tener los valores más bajos.
